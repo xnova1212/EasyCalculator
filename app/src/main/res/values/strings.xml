@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Easy Calculator</string>
+    <string name="title">เครื่องคิดเลขอย่างง่าย</string>
+    <string name="str_first">first number</string>
+    <string name="str_second">second number</string>
+</resources>
